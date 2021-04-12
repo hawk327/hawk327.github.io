@@ -1,18 +1,4 @@
 # hawk327.github.io
 Public portfolio website
-<html><head>
-    <title>Michael Hawkins</title>
 
-        <meta charset="utf-8">
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-    
-    <meta name="description" content="Michael Hawkins' personal webpage">
-    <meta property="og:description" content="Michael Hawkins' personal webpage">
-    
-    <meta name="author" content="Michael Hawkins">
-
-    
-</body></html>
+Content to come!
